@@ -32,3 +32,18 @@ header{
 
 /* Main */
 
+.contenitore-top{
+    background-color: white;
+    width: 800px;
+    height: 70px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.sezione-top{
+    padding-top: 20px;
+    padding-left: 30px;
+}

@@ -47,3 +47,19 @@ header{
     padding-top: 20px;
     padding-left: 30px;
 }
+
+#bottone1{
+    background-color: #47adf1;
+    border-color:  #47adf1;
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#bottone2{
+    background-color: white;
+    color: grey;
+    border-color: rgb(214, 216, 218);
+    border-radius: 4px;
+    padding: 5px;
+}

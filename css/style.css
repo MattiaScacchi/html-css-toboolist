@@ -32,6 +32,8 @@ header{
 
 /* Main */
 
+/* Main Top */
+
 .contenitore-top{
     background-color: white;
     width: 800px;
@@ -39,7 +41,7 @@ header{
     margin-top: 50px;
     margin-left: 200px;
     margin-right: 200px;
-    margin-bottom: 50px;
+    margin-bottom: 2px;
     border-radius: 5px;
 }
 
@@ -63,3 +65,21 @@ header{
     border-radius: 4px;
     padding: 5px;
 }
+
+/* /Main Top */
+
+
+
+/* Main Principale */
+
+.contenitore-principale{
+    background-color: white;
+    width: 800px;
+    height: 600px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+

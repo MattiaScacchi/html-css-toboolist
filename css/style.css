@@ -36,12 +36,10 @@ header{
 
 .contenitore-top{
     background-color: white;
-    width: 800px;
+    width: 100%;
+    max-width: 800px;
     height: 70px;
-    margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 2px;
+    margin: auto;
     border-radius: 5px;
 }
 

@@ -74,10 +74,9 @@ header{
 
 .contenitore-principale{
     background-color: white;
-    width: 800px;
-    height: 500px;
-    margin-left: 200px;
-    margin-right: 200px;
+    width:100%;
+    max-width:800px;
+    margin:auto;
     border-radius: 5px;
     padding-left: 30px;
     padding-top: 20px;

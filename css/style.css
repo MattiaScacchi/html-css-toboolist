@@ -1,3 +1,26 @@
-body{
-    background-color: aquamarine;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header{
+    background-color: white;
+    height: 100px;
+}
+
+#logo{
+    width: 70px;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    vertical-align: middle;    
+}
+
+#title{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 40px;
 }

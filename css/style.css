@@ -39,6 +39,7 @@ header{
     width: 100%;
     max-width: 800px;
     height: 70px;
+    margin-top: 3em;
     margin: auto;
     border-radius: 5px;
 }
@@ -154,6 +155,7 @@ ul{
     padding-right: 4px;
     display: inline-block;
 }
+
 li{
     padding-bottom: 10px;
 }

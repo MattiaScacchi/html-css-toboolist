@@ -83,3 +83,22 @@ header{
     padding-top: 20px;
 }
 
+ul{
+    padding-left: 5px;
+    list-style: none;
+}
+
+.evidenziato-blu{
+    background-color: #47adf1;
+    border-radius: 20px;
+    padding: 5px;
+    color: white;
+    font-size: 12px;
+}
+
+.true{
+    color: green;
+    background-color: rgb(33, 179, 40);
+    border-radius: 50%;
+    
+}

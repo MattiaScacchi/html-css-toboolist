@@ -32,20 +32,3 @@ header{
 
 /* Main */
 
-.contenitore-principale{
-    background-color: white;
-    width: 800px;
-    height: 700px;
-    margin-top: 50px;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 50px;
-    padding-top: 10px;
-    padding-left: 30px;
-    border-radius: 10px;
-    
-}
-
-.contenitore-principale section.top{
-    border-bottom: rgb(214, 216, 218);
-}

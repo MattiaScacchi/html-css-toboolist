@@ -5,6 +5,12 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 62,5%;
+    /* in modo che i pixel di html diventino 10px ed è piu facile trovare i rem  */
+    /* 15px equivalgono a 1,5rem */
+}
 body{
     background-color: rgb(214, 216, 218);
 }
